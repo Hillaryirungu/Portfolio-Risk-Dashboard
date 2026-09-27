@@ -4,7 +4,7 @@ An end-to-end **data engineering + quantitative risk analytics** application:
 pull market data, clean it, compute institutional-grade risk metrics, and
 present it through a live, public, interactive dashboard.
 
-**[Live demo →](#deployment)** *(fill in your Streamlit Cloud URL after deploying)*
+**[Live demo →](https://hillaryirungu-portfolio-risk-dashboard.streamlit.app/)**
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
